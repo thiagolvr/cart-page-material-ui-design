@@ -37,7 +37,7 @@ function Steps() {
         {currentStep === 3 && (
           <Stack sx={{ width: '100%', margin: '30px' }} spacing={2}>
              <Alert severity="success">
-             Compra efetuada com sucesso! Confira seu e-mail
+             Compra efetuada com sucesso! Confira seu e- mail
               </Alert>
           </Stack>
         )}
